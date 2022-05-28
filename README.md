@@ -38,20 +38,19 @@
 - Source-Free Domain Adaptation for Semantic Segmentation. Liu, Yuang et al. CVPR 2021
 - Domain Impression: A Source Data Free Domain Adaptation Method. Kurmi et al. WACV 2021
 
-# Data-Free model 
+# Data-Free model attack
 - Zero-Shot Knowledge Distillation from a Decision-Based Black-Box Mode. Wang Zi. ICML 2021
 - Delving into Data: Effectively Substitute Training for Black-box Attack. CVPR 2021
 - MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation. Sanjay et al. arXiv:2005.03161
 
 
+# Data-free 
+- Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning | ICCV 2021
 
 
-# Data-Free Quantization
+# Data-Free Quantization and Pruning
 - Data-Free Network Quantization with Adversarial Knowledge Distillation. Choi, Yoojin et al. CVPRW 2020
 - Zero-shot Adversarial Quantization. Liu, Yuang et al. CVPR 2021 [code]
-
-
-# Data-Free Prune
 - Towards Accurate Quantization and Pruning via Data-free Knowledge Transfer. arXiv:2010.07334
 
 
