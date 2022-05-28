@@ -13,7 +13,6 @@
 - Knowledge Extraction with No Observable Data. Yoo, Jaemin et al. NeurIPS 2019 [code]
 - Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN. CVPR 2020
 - DeGAN: Data-Enriching GAN for Retrieving Representative Samples from a Trained Classifier. Addepalli, Sravanti et al. arXiv:1912.11960
-- Generative Low-bitwidth Data Free Quantization. Xu, Shoukai et al. ECCV 2020 [code]
 - This dataset does not exist: training models from generated images. arXiv:1911.02888
 - Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data. Such et al. ECCV 2020
 - Billion-scale semi-supervised learning for image classification. FAIR. arXiv:1905.00546 [code]
@@ -21,7 +20,6 @@
 - Data-free Knowledge Distillation for Segmentation using Data-Enriching GAN. Bhogale et al. arXiv:2011.00809
 - Layer-Wise Data-Free CNN Compression. Horton, Maxwell et al (Apple Inc.). cvpr 2021
 - Effectiveness of Arbitrary Transfer Sets for Data-free Knowledge Distillation. Nayak et al. WACV 2021
-- Learning in School: Multi-teacher Knowledge Inversion for Data-Free Quantization. Li, Yuhang et al. cvpr 2021
 - Large-Scale Generative Data-Free Distillation. Luo, Liangchen et al. cvpr 2021
 - Learning Student Networks in the Wild. (HUAWEI-Noah). CVPR 2021
 - Data-Free Knowledge Distillation For Image Super-Resolution. (HUAWEI-Noah). CVPR 2021
@@ -33,6 +31,12 @@
 - Contrastive Model Inversion for Data-Free Knowledge Distillation. Fang, Gongfan et al. IJCAI 2021 [code]
 - Graph-Free Knowledge Distillation for Graph Neural Networks. Deng, Xiang & Zhang, Zhongfei. arXiv:2105.07519
 
+# Data-Free Quantization and Pruning
+- Data-Free Network Quantization with Adversarial Knowledge Distillation. Choi, Yoojin et al. CVPRW 2020
+- Zero-shot Adversarial Quantization. Liu, Yuang et al. CVPR 2021 [code]
+- Towards Accurate Quantization and Pruning via Data-free Knowledge Transfer. arXiv:2010.07334
+- Generative Low-bitwidth Data Free Quantization. Xu, Shoukai et al. ECCV 2020 [code]
+- Learning in School: Multi-teacher Knowledge Inversion for Data-Free Quantization. Li, Yuhang et al. cvpr 2021
 
 # Data-Free domain adaption
 - Source-Free Domain Adaptation for Semantic Segmentation. Liu, Yuang et al. CVPR 2021
@@ -47,12 +51,6 @@
 # Data-free 
 - Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning | ICCV 2021
 - 
-
-
-# Data-Free Quantization and Pruning
-- Data-Free Network Quantization with Adversarial Knowledge Distillation. Choi, Yoojin et al. CVPRW 2020
-- Zero-shot Adversarial Quantization. Liu, Yuang et al. CVPR 2021 [code]
-- Towards Accurate Quantization and Pruning via Data-free Knowledge Transfer. arXiv:2010.07334
 
 
 # Data-Free Federated Learning
