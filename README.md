@@ -48,7 +48,7 @@
 - MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation. Sanjay et al. arXiv:2005.03161
 
 
-# Data-free 
+# Data-free Incremental Learning
 - Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning | ICCV 2021
 - 
 
