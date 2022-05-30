@@ -52,7 +52,15 @@
 
 # Data-free Incremental Learning
 - Always Be Dreaming: A New Approach for Data-Free Class-Incremental Learning | ICCV 2021
-- 
+- Continual Learning with Deep Generative Replay (NIPS2017) [[paper](https://arxiv.org/abs/1705.08690)] [[code](https://github.com/kuc2477/pytorch-deep-generative-replay)]
+- Exemplar-Supported Generative Reproduction for Class Incremental Learning (BMVC2018) [[paper](http://bmvc2018.org/contents/papers/0325.pdf)] [[code](https://github.com/TonyPod/ESGR)]
+- Memory Replay GANs: learning to generate images from new categories without forgetting (NIPS2018) [[paper](https://arxiv.org/abs/1809.02058)] [[code](https://github.com/WuChenshen/MeRGAN)]
+- Lifelong GAN: Continual Learning for Conditional Image Generation (ICCV2019)  [[paper](https://arxiv.org/pdf/1907.10107.pdf)] 
+- Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation (ECCV2020)  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660392.pdf)]
+- Dark Experience for General Continual Learning: a Strong, Simple Baseline (NeurIPS2020) [[paper](https://arxiv.org/pdf/2004.07211.pdf)] [[code](https://github.com/aimagelab/mammoth)] 
+- Continual Learning for Natural Language Generation in Task-oriented Dialog Systems(EMNLP, 2020)  [[paper](https://arxiv.org/abs/2010.00910)] 
+- Efficient Feature Transformations for Discriminative and Generative Continual Learning (CVPR, 2021)  [[paper](https://arxiv.org/abs/2103.13558)] 
+- Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation (CVPR, 2021) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhai_Hyper-LifelongGAN_Scalable_Lifelong_Learning_for_Image_Conditioned_Generation_CVPR_2021_paper.pdf)] 
 
 
 # Data-Free Federated Learning
