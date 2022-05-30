@@ -39,8 +39,10 @@
 - Learning in School: Multi-teacher Knowledge Inversion for Data-Free Quantization. Li, Yuhang et al. cvpr 2021
 
 # Data-Free domain adaption
+- Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation. ICML 2020
 - Source-Free Domain Adaptation for Semantic Segmentation. Liu, Yuang et al. CVPR 2021
 - Domain Impression: A Source Data Free Domain Adaptation Method. Kurmi et al. WACV 2021
+- generalized source-free domain adaptation. ICCV 2021
 
 # Data-Free model attack
 - Zero-Shot Knowledge Distillation from a Decision-Based Black-Box Mode. Wang Zi. ICML 2021
