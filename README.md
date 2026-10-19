@@ -32,6 +32,7 @@
 - Graph-Free Knowledge Distillation for Graph Neural Networks. Deng, Xiang & Zhang, Zhongfei. arXiv:2105.07519
 
 # Data-Free Quantization and Pruning
+- [Discriminative Score Function: Turning Pretrained Models into Functional Generative Priors](https://arxiv.org/abs/2610.19743). Lee, Junhoo et al. NeurIPS 2026. [project](https://junhoo.me/dsf)
 - Data-Free Network Quantization with Adversarial Knowledge Distillation. Choi, Yoojin et al. CVPRW 2020
 - Zero-shot Adversarial Quantization. Liu, Yuang et al. CVPR 2021 [code]
 - Towards Accurate Quantization and Pruning via Data-free Knowledge Transfer. arXiv:2010.07334
